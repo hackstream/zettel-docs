@@ -24,3 +24,12 @@ Read more about [[philosophy]] behind `zettel`.
 ## Quick Start
 
 You can read the [[installation]] section to download the binary. To get started, visit the [[quick-start]] section.
+
+
+## Source Code
+
+`zettel` is an Open Source tool and the source code can be found in [Github](https://github.com/hackstream/zettel).
+
+## License
+
+`zettel` is licensed as GPL v3. The License can be found [here](https://github.com/hackstream/zettel/blob/master/LICENSE).
